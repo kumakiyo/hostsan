@@ -1,4 +1,5 @@
 require "hostsan/version"
+require 'bundler/setup'
 require 'slop'
 require 'bundler/setup'
 
